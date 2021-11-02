@@ -2,7 +2,7 @@
 Building very deep convolutional neural network, using Residual Networks for image classification problem on SIGNS dataset
 
 ### Colab Notebook
-https://colab.research.google.com/drive/1GjJqDdFo1qQevUwn3XY3Ns9LGeMm-sZa?usp=sharing
+https://colab.research.google.com/github/yashclone999/ResNet_MODEL/blob/master/ResNet50.ipynb
 
 ### References: 
 Deep Residual Learning for Image Recognition - https://arxiv.org/pdf/1512.03385.pdf <br/>
