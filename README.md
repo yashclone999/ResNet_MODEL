@@ -1,4 +1,6 @@
 # Restnet_MODEL
-Building very deep CNN, using Residual Networks for image classification problem.
+Building very deep convolutional neural network, using Residual Networks for image classification problem on SIGNS dataset
 
-Reference: https://www.coursera.org/learn/convolutional-neural-networks/home
+### References: 
+Deep Residual Learning for Image Recognition - https://arxiv.org/pdf/1512.03385.pdf <br/>
+https://www.coursera.org/learn/convolutional-neural-networks/home
